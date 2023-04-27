@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @preethimadhuri
 - 👀 I’m interested in learning code and build games and websites.
-- 🌱 I’m currently learning html, css, javascript
-- 💞️ I  am currently learning how to code
+- 🌱  I  am currently learning how to code
 -  more over, am good at googling, stack over flow, MDN, while am stuck in correcting mycode.
 - 📫 How to reach me ...
 preetimadhuri22@gmail.com
